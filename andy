@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- this was created by Andrew Brown 10/9/19>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="applystyles11.css">
+<title>Credit</title>
+<meta charset="utf-8">
+
+< meta name="description" content=" This website provides information about how to build good credit.">
+</head>
+
+
+<body>
+<div id="container">
+<!-- this is the header
+<header>
+<h1>How to Build Good Credit.
+</header>
+
+</div>
+</body>
+<main>
+<p>
+here are some  great ways to build credit: using credit cards but only within your means. 
+Taking out low interest loans from reputable financial institutions. 
+most importatnly never living beyond ones means and getting into debt trouble.
+</p>
+<ul>
+<li> pay bills on time</li>
+<li> live within means</li>
+<li> only take out sensable loans<li>
+</ul>
+
+</main>
+<footer>
+<p> created by Andrew Brown</P>
+</footer>
